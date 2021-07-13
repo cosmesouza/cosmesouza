@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cosmesouza
 - 👀 I’m interested in Blockchain, NFTs
 - 🌱 I’m currently learning all tech pertinent to the above
-- 💞️ I’m looking to collaborate on any Blockchain, NFT projects
+- 💞️ I’m looking to collaborate on any of the above
 - 📫 ...
 
 <!---
